@@ -2,6 +2,16 @@
   "app": "RetroCam",
   "versions": [
     {
+      "versionCode": 6,
+      "versionName": "1.4.1",
+      "date": "2026-10-02",
+      "apk": "https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.1.apk",
+      "sha256": "406936990e9f86fcc359652d1003ef240ca4e20346110f2298a5ac78c4e46645",
+      "changes": [
+        "Fixed the live preview appearing rotated sideways and stretched on phones whose camera reports its own rotation"
+      ]
+    },
+    {
       "versionCode": 5,
       "versionName": "1.4",
       "date": "2026-10-02",

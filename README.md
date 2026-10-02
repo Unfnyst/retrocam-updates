@@ -2,9 +2,15 @@
 
 RetroCam checks this log when it opens and offers to install new versions automatically.
 
-**Latest version: 1.4** (2026-10-02): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.apk)
+**Latest version: 1.4.1** (2026-10-02): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.1.apk)
 
 > First install: open the APK on your phone and allow "install unknown apps" for your browser. After that, updates come through the app.
+
+## 1.4.1 · 2026-10-02
+
+- Fixed the live preview appearing rotated sideways and stretched on phones whose camera reports its own rotation
+
+[Download 1.4.1](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.1.apk)
 
 ## 1.4 · 2026-10-02
 
