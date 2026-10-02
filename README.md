@@ -2,9 +2,19 @@
 
 RetroCam checks this log when it opens and offers to install new versions automatically.
 
-**Latest version: 1.3** (2026-10-01): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.3.apk)
+**Latest version: 1.4** (2026-10-02): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.apk)
 
 > First install: open the APK on your phone and allow "install unknown apps" for your browser. After that, updates come through the app.
+
+## 1.4 · 2026-10-02
+
+- Fast GPU viewfinder: smooth live preview, instant camera switching and 1080p video (Menu → Live preview: Compatible if your phone has trouble)
+- Camera library: tap ▦ ALL for a drawer of camera cards with sample photos, grouped Digital / Film / Instant / Creative / Video; ★ favourites, hide and reorder cameras
+- Film stocks: tap FILM to load any of 17 films into any camera body
+- Album: tap the thumbnail to browse your photos and videos, change a photo's camera after shooting, batch-import from the gallery, share and delete
+- Date stamp: 4 fonts (LED, dot matrix, digital, typewriter), cyan colour, drag it anywhere, or imprint a custom date like '98
+
+[Download 1.4](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.apk)
 
 ## 1.3 · 2026-10-01
 
