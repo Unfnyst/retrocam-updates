@@ -2,6 +2,16 @@
   "app": "RetroCam",
   "versions": [
     {
+      "versionCode": 7,
+      "versionName": "1.4.2",
+      "date": "2026-10-02",
+      "apk": "https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.2.apk",
+      "sha256": "70ba575e3be8f8c603ccb4f0e2c8fb77ee297bea8ee295c6de42b9f7233dbe3a",
+      "changes": [
+        "New app icon"
+      ]
+    },
+    {
       "versionCode": 6,
       "versionName": "1.4.1",
       "date": "2026-10-02",

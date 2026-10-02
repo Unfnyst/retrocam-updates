@@ -2,9 +2,15 @@
 
 RetroCam checks this log when it opens and offers to install new versions automatically.
 
-**Latest version: 1.4.1** (2026-10-02): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.1.apk)
+**Latest version: 1.4.2** (2026-10-02): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.2.apk)
 
 > First install: open the APK on your phone and allow "install unknown apps" for your browser. After that, updates come through the app.
+
+## 1.4.2 · 2026-10-02
+
+- New app icon
+
+[Download 1.4.2](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.2.apk)
 
 ## 1.4.1 · 2026-10-02
 
