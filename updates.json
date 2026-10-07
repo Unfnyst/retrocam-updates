@@ -2,6 +2,16 @@
   "app": "RetroCam",
   "versions": [
     {
+      "versionCode": 10,
+      "versionName": "1.6.1",
+      "date": "2026-10-07",
+      "apk": "https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.6.1.apk",
+      "sha256": "b24403b7dc367e0b69288a728cf6b0bbd87094736dccb7d26d4f1efda8f452fe",
+      "changes": [
+        "Fixed DEPLOY showing \"HTTP -1\" after a successful deploy"
+      ]
+    },
+    {
       "versionCode": 9,
       "versionName": "1.6",
       "date": "2026-10-07",

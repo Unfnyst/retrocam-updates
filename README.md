@@ -2,9 +2,15 @@
 
 RetroCam checks this log when it opens and offers to install new versions automatically.
 
-**Latest version: 1.6** (2026-10-07): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.6.apk)
+**Latest version: 1.6.1** (2026-10-07): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.6.1.apk)
 
 > First install: open the APK on your phone and allow "install unknown apps" for your browser. After that, updates come through the app.
+
+## 1.6.1 · 2026-10-07
+
+- Fixed DEPLOY showing "HTTP -1" after a successful deploy
+
+[Download 1.6.1](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.6.1.apk)
 
 ## 1.6 · 2026-10-07
 
