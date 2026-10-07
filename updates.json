@@ -2,6 +2,17 @@
   "app": "RetroCam",
   "versions": [
     {
+      "versionCode": 9,
+      "versionName": "1.6",
+      "date": "2026-10-07",
+      "apk": "https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.6.apk",
+      "sha256": "96b1f34ae8fdee3292ac6b4edff7c4b8667c4de20c89b6fd6b9df397593056d1",
+      "changes": [
+        "DEPLOY: send one of your cameras to every phone. Menu → MY CAMERAS → DEPLOY, then scan your deploy QR code",
+        "Cameras deployed from other phones appear in My cameras automatically, with a New camera message"
+      ]
+    },
+    {
       "versionCode": 8,
       "versionName": "1.5",
       "date": "2026-10-07",

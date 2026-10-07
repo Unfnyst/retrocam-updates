@@ -2,9 +2,16 @@
 
 RetroCam checks this log when it opens and offers to install new versions automatically.
 
-**Latest version: 1.5** (2026-10-07): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.5.apk)
+**Latest version: 1.6** (2026-10-07): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.6.apk)
 
 > First install: open the APK on your phone and allow "install unknown apps" for your browser. After that, updates come through the app.
+
+## 1.6 · 2026-10-07
+
+- DEPLOY: send one of your cameras to every phone. Menu → MY CAMERAS → DEPLOY, then scan your deploy QR code
+- Cameras deployed from other phones appear in My cameras automatically, with a New camera message
+
+[Download 1.6](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.6.apk)
 
 ## 1.5 · 2026-10-07
 
