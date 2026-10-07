@@ -2,6 +2,18 @@
   "app": "RetroCam",
   "versions": [
     {
+      "versionCode": 8,
+      "versionName": "1.5",
+      "date": "2026-10-07",
+      "apk": "https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.5.apk",
+      "sha256": "3851f94bee5b9d25b6d58c70abd606f75e1f81389b1f7acebeac29a209b7d383",
+      "changes": [
+        "Make your own camera: pick a body, film, lens, frame, ratio, grain, light leaks, date stamp, name and colour, with a live sample photo",
+        "Your cameras get their own My cameras section in the library (▦ ALL → + NEW); press and hold one to edit or delete it",
+        "Menu → Save current setup as a camera turns what you're shooting with into a camera"
+      ]
+    },
+    {
       "versionCode": 7,
       "versionName": "1.4.2",
       "date": "2026-10-02",

@@ -2,9 +2,17 @@
 
 RetroCam checks this log when it opens and offers to install new versions automatically.
 
-**Latest version: 1.4.2** (2026-10-02): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.4.2.apk)
+**Latest version: 1.5** (2026-10-07): [Download APK](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.5.apk)
 
 > First install: open the APK on your phone and allow "install unknown apps" for your browser. After that, updates come through the app.
+
+## 1.5 · 2026-10-07
+
+- Make your own camera: pick a body, film, lens, frame, ratio, grain, light leaks, date stamp, name and colour, with a live sample photo
+- Your cameras get their own My cameras section in the library (▦ ALL → + NEW); press and hold one to edit or delete it
+- Menu → Save current setup as a camera turns what you're shooting with into a camera
+
+[Download 1.5](https://raw.githubusercontent.com/Unfnyst/retrocam-updates/main/apk/RetroCam-1.5.apk)
 
 ## 1.4.2 · 2026-10-02
 
